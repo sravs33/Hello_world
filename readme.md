@@ -4,3 +4,5 @@ this is example repository i am creating
  for that creating two new files at the same time.
 
  i am going to executing step by step methods
+
+ this tutorial is mainly used for git for git hub
